@@ -1,2 +1,2 @@
 # brainfuck
-A brainfuck interpreter written in rust
+A brainfuck interpreter written in python
